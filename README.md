@@ -28,7 +28,7 @@ The project has been developed and tested with Node.js `v18.13.0`. It's recommen
 Copy .env.example and create a .env file:
 
 ```bash
-cp -R env.development .env
+cp -R .env.development .env
 ```
 
 Install the packages:
