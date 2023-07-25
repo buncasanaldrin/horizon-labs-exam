@@ -7,7 +7,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - [React](https://react.dev)
 - [Vite](https://vitejs.dev)
 - [TypeScript](https://www.typescriptlang.org)
-- [pnpm](https://pnpm.io)
+- [Class Variance Authority](https://cva.style/docs)
 - [React Hook Form](https://react-hook-form.com)
 - [Zod](https://zod.dev)
 - [Tailwind CSS](https://tailwindcss.com)
