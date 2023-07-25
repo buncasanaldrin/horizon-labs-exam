@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "isActive": false,
+      "categoryId": 4,
+      "categoryName": "Books"
+    },
+    {
+      "name": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "categoryId": "16",
+      "isActive": true,
+      "id": 2,
+      "categoryName": "Video Games"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "isActive": true,
+      "categoryId": 11,
+      "categoryName": "Pet Supplies"
+    },
+    {
+      "name": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "categoryId": "3",
+      "isActive": true,
+      "id": 4,
+      "categoryName": "Fashion"
+    },
+    {
+      "id": 5,
+      "name": "Huawei P30",
+      "description": "Huawei's re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "isActive": false,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "isActive": true,
+      "categoryId": 7,
+      "categoryName": "Health & Beauty"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "isActive": false,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "isActive": true,
+      "categoryId": "6",
+      "categoryName": "Toys & Games"
+    },
+    {
+      "id": 9,
+      "name": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "isActive": true,
+      "categoryId": "19",
+      "categoryName": "Industrial & Scientific"
+    },
+    {
+      "id": 10,
+      "name": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "isActive": true,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 11,
+      "name": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "isActive": true,
+      "categoryId": 11,
+      "categoryName": "Pet Supplies"
+    },
+    {
+      "id": 12,
+      "name": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "isActive": true,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 13,
+      "name": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "isActive": false,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 14,
+      "name": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "isActive": true,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 15,
+      "name": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "isActive": false,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 16,
+      "name": "Hyaluronic Acid Serum",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "isActive": true,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 17,
+      "name": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "isActive": false,
+      "categoryId": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 18,
+      "name": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "isActive": false,
+      "categoryId": "1",
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "Freckle Treatment Cream- 15gm",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "isActive": true,
+      "categoryId": "4",
+      "categoryName": "Books"
+    },
+    {
+      "name": "xcvxcvcx",
+      "description": "xcv",
+      "categoryId": "4",
+      "isActive": true,
+      "categoryName": "Books",
+      "id": 22
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Home Appliances"
+    },
+    {
+      "id": 3,
+      "name": "Fashion"
+    },
+    {
+      "id": 4,
+      "name": "Books"
+    },
+    {
+      "id": 5,
+      "name": "Sports & Outdoors"
+    },
+    {
+      "id": 6,
+      "name": "Toys & Games"
+    },
+    {
+      "id": 7,
+      "name": "Health & Beauty"
+    },
+    {
+      "id": 8,
+      "name": "Groceries"
+    },
+    {
+      "id": 9,
+      "name": "Home & Garden"
+    },
+    {
+      "id": 10,
+      "name": "Automotive"
+    },
+    {
+      "id": 11,
+      "name": "Pet Supplies"
+    },
+    {
+      "id": 12,
+      "name": "Office Supplies"
+    },
+    {
+      "id": 13,
+      "name": "Musical Instruments"
+    },
+    {
+      "id": 14,
+      "name": "Movies & TV"
+    },
+    {
+      "id": 15,
+      "name": "Software"
+    },
+    {
+      "id": 16,
+      "name": "Video Games"
+    },
+    {
+      "id": 17,
+      "name": "Kitchen & Dining"
+    },
+    {
+      "id": 18,
+      "name": "Tools & Home Improvement"
+    },
+    {
+      "id": 19,
+      "name": "Industrial & Scientific"
+    },
+    {
+      "id": 20,
+      "name": "Baby Products"
+    }
+  ]
+}
