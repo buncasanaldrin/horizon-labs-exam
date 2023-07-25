@@ -139,7 +139,7 @@
     {
       "id": 18,
       "name": "Oil Free Moisturizer 100ml",
-      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.v",
       "isActive": false,
       "categoryId": "1",
       "categoryName": "Electronics"
@@ -151,14 +151,6 @@
       "isActive": true,
       "categoryId": "4",
       "categoryName": "Books"
-    },
-    {
-      "name": "xcvxcvcx",
-      "description": "xcv",
-      "categoryId": "4",
-      "isActive": true,
-      "categoryName": "Books",
-      "id": 22
     }
   ],
   "categories": [
