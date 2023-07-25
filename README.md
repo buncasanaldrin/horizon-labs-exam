@@ -114,7 +114,7 @@ The project consists of several directories, each having a specific role in the 
 
 ---
 
-- `/src/hooks`: This directory contains reusable hooks. Many of these are used in conjunction with react-query. A future addition might include a useDebounce hook.
+- `/src/hooks`: This directory contains reusable hooks. Many of these are used in conjunction with react-query.
 
 ---
 
