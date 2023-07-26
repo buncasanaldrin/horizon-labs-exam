@@ -71,8 +71,6 @@ The server will automatically reload if you make changes to db.json.
 
 ### Running the tests
 
-This project uses a mock JSON server to simulate a backend API. The server runs on `localhost:3000` by default. You'll need to start it before you start the development server for the React application.
-
 Start the test by running:
 
 ```bash
